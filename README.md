@@ -1,8 +1,9 @@
 
 
-## Getting Started
+## SWEDISH TECHNOLOGY TEST
 
-First, run the development server:
+
+Please follow the instructions below to run the App
 
 ```bash
 # 1-  install dependency
