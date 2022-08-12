@@ -1,0 +1,147 @@
+{
+  "users": [
+    {
+      "userData": {
+        "user_name": "yaseeno373@gmail.com",
+        "password": "123456789",
+        "user_type": "user",
+        "active": true,
+        "create_data": "1660292025285",
+        "activate_date": "",
+        "deactivate_date": "",
+        "update_date": "1660292025285"
+      },
+      "id": 2,
+      "userTask": [
+        {
+          "task_name": "rgrgrgrgrggrrg",
+          "task_date": "2022-08-23",
+          "id": "2",
+          "actions": [
+            "action 1",
+            "action 2",
+            "action 3"
+          ]
+        },
+        {
+          "task_name": "rgrgrgrgrggrrg",
+          "task_date": "2022-08-23",
+          "id": "2",
+          "actions": [
+            "action 1",
+            "action 2"
+          ]
+        },
+        {
+          "task_name": "eeeeee",
+          "task_date": "2022-08-09",
+          "id": "3",
+          "actions": [
+            "action 3"
+          ]
+        },
+        {
+          "task_name": "rgrgrgrgrggrrg",
+          "task_date": "2022-08-23",
+          "id": "2",
+          "actions": [
+            "action 2",
+            "action 3"
+          ]
+        },
+        {
+          "task_name": "Introduction",
+          "task_date": "2022-08-17",
+          "id": "1",
+          "actions": [
+            "show prop available for toggling alert "
+          ]
+        },
+        {
+          "task_name": "rgrgrgrgrggrrg",
+          "task_date": "2022-08-23",
+          "id": "2",
+          "actions": [
+            "action 2"
+          ]
+        }
+      ]
+    },
+    {
+      "userData": {
+        "user_name": "yaseeno373@gmail.com",
+        "password": "123456789",
+        "user_type": "admin",
+        "active": true,
+        "create_data": "1660293858367",
+        "activate_date": "",
+        "deactivate_date": "",
+        "update_date": "1660293858367"
+      },
+      "id": 3,
+      "userTask": [
+        {
+          "task_name": "rgrgrgrgrggrrg",
+          "task_date": "2022-08-23",
+          "id": "2",
+          "actions": [
+            "action 2"
+          ]
+        },
+        {
+          "task_name": "rgrgrgrgrggrrg",
+          "task_date": "2022-08-23",
+          "id": "2",
+          "actions": [
+            "action 2",
+            "action 3"
+          ]
+        },
+        {
+          "task_name": "eeeeee",
+          "task_date": "2022-08-09",
+          "id": "3",
+          "actions": [
+            "action 2",
+            "action 3"
+          ]
+        }
+      ]
+    }
+  ],
+  "tasks": [
+    {
+      "actions": [
+        "sweetalert-react is a wrapped sweetalert implementation",
+        "show prop available for toggling alert "
+      ],
+      "task_name": "Introduction",
+      "task_date": "2022-08-17",
+      "id": 1
+    },
+    {
+      "actions": [
+        "action 1",
+        "action 2",
+        "action 3",
+        "action 4",
+        "action 5"
+      ],
+      "task_name": "rgrgrgrgrggrrg",
+      "task_date": "2022-08-23",
+      "id": 2
+    },
+    {
+      "actions": [
+        "action 1",
+        "action 2",
+        "action 3",
+        "action 4",
+        "action 5"
+      ],
+      "task_name": "eeeeee",
+      "task_date": "2022-08-09",
+      "id": 3
+    }
+  ]
+}
